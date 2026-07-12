@@ -1,10 +1,5 @@
 > **الهدف من الـ Section ده:**  
 > هتقدر تبني بيئة SOC Lab كاملة على جهازك الشخصي باستخدام VMware و Ubuntu و Splunk Enterprise، وهتفهم إزاي الـ Components التلاتة بتاعة Splunk بتشتغل مع بعض، وتجهز نفسك عمليًا لأول Lab في الكورس.
-# Lab 0 — Runbook: Building a SOC Lab (VMware + Ubuntu + Splunk)
-
-**النوع:** Hands-on Practical Lab
-**الوقت المتوقع:** ~3 ساعات (منها ساعتين تحميلات وتنصيب)
-**قبل ما تبدأ:** لازم تخلص الـ Lab ده بالكامل قبل Lab 1
 
 ## Table of Contents
 
